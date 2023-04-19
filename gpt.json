@@ -1,0 +1,6 @@
+{
+    "model": "GPT 3.5 Turbo",
+    "user": "<YOUR_USERNAME_HERE>",
+    "data": "<REGISTRATION_DATE_HERE>",
+    "api-key": "<YOUR_API-KEY_HERE>"
+}
